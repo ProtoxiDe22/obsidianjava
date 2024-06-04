@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/java/00-index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/java/00-index/","tags":["gardenEntry"],"dgShowToc":true}
 ---
 
 # Index
